@@ -1,0 +1,7 @@
+add_test([=[ItemTest.Constructor]=]  [==[/Users/alessandrodelvecchio/CLionProjects/progetto lista/cmake-build-debug/lista_tests]==] [==[--gtest_filter=ItemTest.Constructor]==] --gtest_also_run_disabled_tests)
+set_tests_properties([=[ItemTest.Constructor]=]  PROPERTIES WORKING_DIRECTORY [==[/Users/alessandrodelvecchio/CLionProjects/progetto lista/cmake-build-debug]==] SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
+add_test([=[ShoppingListTest.AddRemove]=]  [==[/Users/alessandrodelvecchio/CLionProjects/progetto lista/cmake-build-debug/lista_tests]==] [==[--gtest_filter=ShoppingListTest.AddRemove]==] --gtest_also_run_disabled_tests)
+set_tests_properties([=[ShoppingListTest.AddRemove]=]  PROPERTIES WORKING_DIRECTORY [==[/Users/alessandrodelvecchio/CLionProjects/progetto lista/cmake-build-debug]==] SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
+add_test([=[UserTest.Share]=]  [==[/Users/alessandrodelvecchio/CLionProjects/progetto lista/cmake-build-debug/lista_tests]==] [==[--gtest_filter=UserTest.Share]==] --gtest_also_run_disabled_tests)
+set_tests_properties([=[UserTest.Share]=]  PROPERTIES WORKING_DIRECTORY [==[/Users/alessandrodelvecchio/CLionProjects/progetto lista/cmake-build-debug]==] SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
+set(  lista_tests_TESTS ItemTest.Constructor ShoppingListTest.AddRemove UserTest.Share)

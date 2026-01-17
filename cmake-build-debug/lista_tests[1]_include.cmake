@@ -1,0 +1,5 @@
+if(EXISTS "/Users/alessandrodelvecchio/CLionProjects/progetto lista/cmake-build-debug/lista_tests[1]_tests.cmake")
+  include("/Users/alessandrodelvecchio/CLionProjects/progetto lista/cmake-build-debug/lista_tests[1]_tests.cmake")
+else()
+  add_test(lista_tests_NOT_BUILT lista_tests_NOT_BUILT)
+endif()
