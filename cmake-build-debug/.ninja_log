@@ -1,49 +1,46 @@
 # ninja log v6
-4	373	1768660076033902166	CMakeFiles/lista.dir/main.cpp.o	e810da343d437053
-1	323	1768660352169382638	/Users/alessandrodelvecchio/CLionProjects/progetto lista/cmake-build-debug/_deps/googletest-build/googlemock/cmake_install.cmake	f735f1409792890c
-1392	1419	1768660077421495569	lib/libgtest_main.a	148e3bb72dbe1f7c
-479	1038	1768660076508893643	_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o	f3cf8d615c115789
-1354	1391	1768660077383546794	lib/libgtest.a	4567b4b1c7bc8d4a
-1	323	1768660352168091727	/Users/alessandrodelvecchio/CLionProjects/progetto lista/cmake-build-debug/cmake_install.cmake	f735f1409792890c
-4	332	1768660076034237290	CMakeFiles/lista.dir/ShoppingList.cpp.o	4eeb72a9a985d38d
-3	1354	1768660076033285502	_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	140b22a9f33aa764
-4	479	1768660076033784458	_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	1fa9aa61a3f70452
-1	323	1768660352171111382	/Users/alessandrodelvecchio/CLionProjects/progetto lista/cmake-build-debug/_deps/googletest-build/googletest/CTestTestfile.cmake	f735f1409792890c
-796	862	1768660076825621169	lista	71429c710eb092c9
-321	352	1768659063667885668	gtest_runner	2738cc39f7a36e6c
-1	323	1768660352172056837	build.ninja	f735f1409792890c
-1419	2077	1768660078104615060	lista_tests	233dc0d3f833ea48
-1	323	1768660352168257559	/Users/alessandrodelvecchio/CLionProjects/progetto lista/cmake-build-debug/CTestTestfile.cmake	f735f1409792890c
-26	60	1768658482404184184	unit_tests	485a488be45cf21d
-1419	2077	1768660078104615060	/Users/alessandrodelvecchio/CLionProjects/progetto lista/cmake-build-debug/lista_tests[1]_tests.cmake	233dc0d3f833ea48
-1	323	1768660352168640100	/Users/alessandrodelvecchio/CLionProjects/progetto lista/cmake-build-debug/_deps/googletest-build/CTestTestfile.cmake	f735f1409792890c
-4	974	1768660076033639542	_deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o	b4aeffeffd0b9f76
-5	347	1768660076034377539	CMakeFiles/lista.dir/User.cpp.o	2f59134fea12ca43
-347	783	1768660076377194384	CMakeFiles/lista_tests.dir/ShoppingList.cpp.o	34c3e98b2c0119a9
-1392	1420	1768660077421345528	lib/libgmock.a	abd33aab4deba86f
-1	8	1768660343846585170	clean	ad90e366ad70d77b
-373	833	1768660076403256954	CMakeFiles/lista_tests.dir/User.cpp.o	33eb32848159a9d1
-1	323	1768660352169719971	/Users/alessandrodelvecchio/CLionProjects/progetto lista/cmake-build-debug/_deps/googletest-build/googlemock/CTestTestfile.cmake	f735f1409792890c
-332	910	1768660076362043816	CMakeFiles/lista_tests.dir/tests/test_main.cpp.o	2706660ca421290f
-1	323	1768660352170913341	/Users/alessandrodelvecchio/CLionProjects/progetto lista/cmake-build-debug/_deps/googletest-build/googletest/cmake_install.cmake	f735f1409792890c
-1	323	1768660352168491600	/Users/alessandrodelvecchio/CLionProjects/progetto lista/cmake-build-debug/_deps/googletest-build/cmake_install.cmake	f735f1409792890c
-1420	1449	1768660077450010546	lib/libgmock_main.a	7a1489e047b4977b
-1419	2077	1768660078104615060	lista_tests[1]_tests.cmake	233dc0d3f833ea48
-5	331	1768660354389678474	CMakeFiles/lista_tests.dir/ShoppingList.cpp.o	34c3e98b2c0119a9
-5	360	1768660354389929848	CMakeFiles/lista_tests.dir/User.cpp.o	33eb32848159a9d1
-5	402	1768660354389384100	_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	1fa9aa61a3f70452
-5	446	1768660354389526183	CMakeFiles/lista_tests.dir/tests/test_main.cpp.o	2706660ca421290f
-4	1019	1768660354388617561	_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	140b22a9f33aa764
-1019	1062	1768660355403477439	lib/libgtest.a	4567b4b1c7bc8d4a
-1063	1086	1768660355447324817	lib/libgtest_main.a	148e3bb72dbe1f7c
-1086	1724	1768660356106999479	lista_tests	233dc0d3f833ea48
 1086	1724	1768660356106999479	lista_tests[1]_tests.cmake	233dc0d3f833ea48
-1086	1724	1768660356106999479	/Users/alessandrodelvecchio/CLionProjects/progetto lista/cmake-build-debug/lista_tests[1]_tests.cmake	233dc0d3f833ea48
-4	249	1768660364646969470	CMakeFiles/lista.dir/ShoppingList.cpp.o	4eeb72a9a985d38d
-4	266	1768660364646817971	CMakeFiles/lista.dir/main.cpp.o	e810da343d437053
-4	293	1768660364647096595	CMakeFiles/lista.dir/User.cpp.o	2f59134fea12ca43
-293	326	1768660364935835850	lista	71429c710eb092c9
-5	427	1768660364648065425	_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o	f3cf8d615c115789
-4	635	1768660364646439889	_deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o	b4aeffeffd0b9f76
-635	665	1768660365277904406	lib/libgmock.a	abd33aab4deba86f
 665	689	1768660365307627462	lib/libgmock_main.a	7a1489e047b4977b
+1	323	1768749169301185980	/Users/alessandrodelvecchio/CLionProjects/progetto lista/cmake-build-debug/_deps/googletest-build/cmake_install.cmake	f735f1409792890c
+1	323	1768749169303655557	/Users/alessandrodelvecchio/CLionProjects/progetto lista/cmake-build-debug/_deps/googletest-build/googletest/cmake_install.cmake	f735f1409792890c
+5	446	1768660354389526183	CMakeFiles/lista_tests.dir/tests/test_main.cpp.o	2706660ca421290f
+1	323	1768749169302133810	/Users/alessandrodelvecchio/CLionProjects/progetto lista/cmake-build-debug/_deps/googletest-build/googlemock/CTestTestfile.cmake	f735f1409792890c
+635	665	1768660365277904406	lib/libgmock.a	abd33aab4deba86f
+5	331	1768660354389678474	CMakeFiles/lista_tests.dir/ShoppingList.cpp.o	34c3e98b2c0119a9
+4	293	1768660364647096595	CMakeFiles/lista.dir/User.cpp.o	2f59134fea12ca43
+1	323	1768749169301326646	/Users/alessandrodelvecchio/CLionProjects/progetto lista/cmake-build-debug/_deps/googletest-build/CTestTestfile.cmake	f735f1409792890c
+4	635	1768660364646439889	_deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o	b4aeffeffd0b9f76
+1086	1724	1768660356106999479	/Users/alessandrodelvecchio/CLionProjects/progetto lista/cmake-build-debug/lista_tests[1]_tests.cmake	233dc0d3f833ea48
+26	60	1768658482404184184	unit_tests	485a488be45cf21d
+1	323	1768749169300949855	/Users/alessandrodelvecchio/CLionProjects/progetto lista/cmake-build-debug/CTestTestfile.cmake	f735f1409792890c
+1	323	1768749169304771179	build.ninja	f735f1409792890c
+1086	1724	1768660356106999479	lista_tests	233dc0d3f833ea48
+5	360	1768660354389929848	CMakeFiles/lista_tests.dir/User.cpp.o	33eb32848159a9d1
+1	8	1768660343846585170	clean	ad90e366ad70d77b
+321	352	1768659063667885668	gtest_runner	2738cc39f7a36e6c
+293	326	1768660364935835850	lista	71429c710eb092c9
+1	323	1768749169303940056	/Users/alessandrodelvecchio/CLionProjects/progetto lista/cmake-build-debug/_deps/googletest-build/googletest/CTestTestfile.cmake	f735f1409792890c
+5	402	1768660354389384100	_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	1fa9aa61a3f70452
+4	1019	1768660354388617561	_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	140b22a9f33aa764
+4	249	1768660364646969470	CMakeFiles/lista.dir/ShoppingList.cpp.o	4eeb72a9a985d38d
+1	323	1768749169300798731	/Users/alessandrodelvecchio/CLionProjects/progetto lista/cmake-build-debug/cmake_install.cmake	f735f1409792890c
+1019	1062	1768660355403477439	lib/libgtest.a	4567b4b1c7bc8d4a
+5	427	1768660364648065425	_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o	f3cf8d615c115789
+1063	1086	1768660355447324817	lib/libgtest_main.a	148e3bb72dbe1f7c
+1	323	1768749169301985936	/Users/alessandrodelvecchio/CLionProjects/progetto lista/cmake-build-debug/_deps/googletest-build/googlemock/cmake_install.cmake	f735f1409792890c
+4	266	1768660364646817971	CMakeFiles/lista.dir/main.cpp.o	e810da343d437053
+2	370	1768749169304771179	build.ninja	f735f1409792890c
+2	370	1768749169304771179	/Users/alessandrodelvecchio/CLionProjects/progetto lista/cmake-build-debug/cmake_install.cmake	f735f1409792890c
+2	370	1768749169304771179	/Users/alessandrodelvecchio/CLionProjects/progetto lista/cmake-build-debug/_deps/googletest-build/cmake_install.cmake	f735f1409792890c
+2	370	1768749169304771179	/Users/alessandrodelvecchio/CLionProjects/progetto lista/cmake-build-debug/_deps/googletest-build/googlemock/cmake_install.cmake	f735f1409792890c
+2	370	1768749169304771179	/Users/alessandrodelvecchio/CLionProjects/progetto lista/cmake-build-debug/_deps/googletest-build/googletest/cmake_install.cmake	f735f1409792890c
+2	370	1768749169304771179	/Users/alessandrodelvecchio/CLionProjects/progetto lista/cmake-build-debug/CTestTestfile.cmake	f735f1409792890c
+2	370	1768749169304771179	/Users/alessandrodelvecchio/CLionProjects/progetto lista/cmake-build-debug/_deps/googletest-build/CTestTestfile.cmake	f735f1409792890c
+2	370	1768749169304771179	/Users/alessandrodelvecchio/CLionProjects/progetto lista/cmake-build-debug/_deps/googletest-build/googlemock/CTestTestfile.cmake	f735f1409792890c
+2	370	1768749169304771179	/Users/alessandrodelvecchio/CLionProjects/progetto lista/cmake-build-debug/_deps/googletest-build/googletest/CTestTestfile.cmake	f735f1409792890c
+15	468	1768749169327783037	CMakeFiles/lista_tests.dir/ShoppingList.cpp.o	34c3e98b2c0119a9
+15	482	1768749169328037911	CMakeFiles/lista_tests.dir/User.cpp.o	33eb32848159a9d1
+15	581	1768749169327546788	CMakeFiles/lista_tests.dir/tests/test_main.cpp.o	2706660ca421290f
+582	1083	1768749170394574865	lista_tests	233dc0d3f833ea48
+582	1083	1768749170394574865	lista_tests[1]_tests.cmake	233dc0d3f833ea48
+582	1083	1768749170394574865	/Users/alessandrodelvecchio/CLionProjects/progetto lista/cmake-build-debug/lista_tests[1]_tests.cmake	233dc0d3f833ea48
